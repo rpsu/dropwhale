@@ -24,4 +24,4 @@ cli:
 data:
    image: tianon/true
    volumes:
-         - /var/www
+         - /var/www/
